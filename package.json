@@ -1,0 +1,24 @@
+{
+  "name": "@mindlearn/tokenizer",
+  "version": "0.0.1",
+  "description": "Enhances comprehension for MindScript-powered models by tokenizing text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindlearn/tokenizer.git"
+  },
+  "keywords": [
+    "tokenizer",
+    "mindscript",
+    "ai"
+  ],
+  "author": "MindLearn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindlearn/tokenizer/issues"
+  },
+  "homepage": "https://github.com/mindlearn/tokenizer#readme"
+}
